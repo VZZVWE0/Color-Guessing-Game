@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GUESS HUE</title>
+    <link rel="stylesheet" type="text/css" href="style.css"> <!--Loads in stylesheet-->
+</head>
+<body>
+<center>
+    <h1 style="font-family: fantasy"><div class="multicolor-text">GUESS HUE?</div></h1>
+<div id="quiz-container">
+
+    <p style="font-family:Courier New", monospace><b>And YES, these flags only have <i><u>ONE</u></i> color!</b></p>
+    <p style="font-family:Courier New", monospace><b>Select one of the <u>six</u> options below and hit submit.</b></p>
+
+    <div id="question">
+        <!--Loads in question-->
+    </div>
+
+    <div id="options-container">
+        <!--Loads in answer options-->
+    </div>
+
+    <button onclick="checkAnswer()">Submit</button>
+    
+    <button id="next-button" onclick="nextQuestion()">Next</button>
+
+    <button id="main menu" onclick="window.location.href='index.html'">Main Menu</button>
+
+
+    <div id="result"></div>
+    <div id="custom-message"></div>
+    <br>
+
+    <script src="flagQuiz.js"></script>
+</div>
+</center>
+</body>
+</html>
