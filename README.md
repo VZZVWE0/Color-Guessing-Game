@@ -10,6 +10,10 @@ There are four different catergories and three different difficulties. Each leve
 
 # Screenshots
 ----------------------------------
+![Homepage](https://github.com/VZZVWE0/Color-Guessing-Game/assets/72224669/c943130d-43a1-41fa-aa08-b3c53008c8d1)
+![CharacterGame1](https://github.com/VZZVWE0/Color-Guessing-Game/assets/72224669/ead2b10a-4d75-4224-af11-18cd66d84b27)
+![CharacterGame2](https://github.com/VZZVWE0/Color-Guessing-Game/assets/72224669/fca80b2b-16da-423d-aec7-d253bba2985f)
+
 
 # Updates
 ----------------------------------
